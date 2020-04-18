@@ -1,2 +1,2 @@
-# OurRidiculous.github.io
-The website for our Ridiculous gang
+# OurRidiculouspage.github.io
+The website for our Ridiculous gang page
